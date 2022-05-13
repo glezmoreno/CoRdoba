@@ -151,7 +151,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(https://upload.wikimedia.org/wikipedia/commons/d/da/MADRID_060518_MXALX_087.jpg) no-repeat scroll;
+    background: url(../img/mezquita.jpg) no-repeat scroll;
     background-color: #ffffff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -161,8 +161,8 @@ a:focus {
 
 .intro .intro-body {
     display: table-cell;
-    vertical-align: bottom;
-	float: right;
+    vertical-align: top;
+	float: center;
 
 }
 
@@ -175,7 +175,7 @@ a:focus {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-    float: right;
+    float: center;
 }
 
 @media(min-width:768px) {
